@@ -1,6 +1,4 @@
 import React, {useState} from 'react'
-import "../mensaje.css"
-
 
 const Message = ({ text }) => {
     const [showMessage, setShowMessage] = useState(false);

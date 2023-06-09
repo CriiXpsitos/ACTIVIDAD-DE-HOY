@@ -1,10 +1,10 @@
-
+import "../styles.css"
 
 const Header = () => {
     return (
         <>
             <header> 
-                <p> El mati y el criixpsitos estuvieron aqui </p> 
+                <p className="../styles.css"> El mati y el criixpsitos estuvieron aqui </p> 
             </header>
         </>
 

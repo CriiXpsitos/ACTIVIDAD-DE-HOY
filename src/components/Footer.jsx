@@ -1,8 +1,9 @@
+import "../styles.css"
 const Footer = () => {
     return (
         <>
             <footer> 
-                <p> Adios amores y adios instructora </p> 
+                <p className="../styles.css"> Adios amores y adios instructora </p> 
             </footer>
         </>
 

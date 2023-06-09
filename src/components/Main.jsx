@@ -1,8 +1,10 @@
+import "../styles.css"
+
 const Main = () => {
     return (
         <>
             <main> 
-                <p> Oliwis </p> 
+                <p className=""> Oliwis </p> 
             </main>
         </>
 
